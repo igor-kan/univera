@@ -1,0 +1,1 @@
+  <div className="absolute inset-0 bg-[url('data:image/svg+xml,%3Csvg%20width=%2220%22%20height=%2220%22%20xmlns=%22http://www.w3.org/2000/svg%22%3E%3Cg%20fill=%22%23ffffff%22%20fill-opacity=%220.05%22%3E%3Ccircle%20cx=%2210%22%20cy=%2210%22%20r=%221%22/%3E%3C/g%3E%3C/svg%3E')] opacity-40"></div> 
